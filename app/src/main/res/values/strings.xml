@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MyOrder</string>
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="error_msg">No data found from server</string>
+    <string name="error_msg_noinput">Please select SKU data</string>
+    <string name="error_msg_wronginput">Entered value is not more than ordered value</string>
+    <string name="data_update_failed">Data updating failed</string>
+    <string name="network_failed">Please check your internet connection</string>
+    <string name="sku_failed">Selected SKU is not assigned to any Bin</string>
+    <string name="error_empty_qty">Please enter quantity</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="rememberme">Remember me</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="register"><u>Register</u></string>
+    <string name="validator_email">The e-mail address is not in a valid format.</string>
+    <string name="validator_empty">You must complete this field.</string>
+    <string name="validator_url">The URL entered is incorrect.</string>
+    <string name="validator_confirm">The confirm field is not valid.</string>
+    <string name="validator_alnum">The value has not only alnum characters.</string>
+    <string name="validator_hex">The value has not only hexadecimal digit characters.</string>
+    <string name="validator_regexp">The value does not match against pattern.</string>
+    <string name="validator_phone">Phone number is not in a valid format.</string>
+    <string name="validator_range">The value is not between the required range.</string>
+    <string name="validator_date">The entered date is not valid.</string>
+    <string name="validator_ip">The ip address is not valid.</string>
+    <string name="validator_num">Inputed text contains something that isn\'t numeric.</string>
+    <string name="validations_not_positive_integer">Field should be positive integer</string>
+    <string name="delete_user">Do you want to delete %s ?</string>
+    <string name="updatesku" formatted="false">SKU currently assigned to bin(%s)\n Do you want to unassign from bin(%s) and assigned to bin (%s)?</string>
+    <string name="nodata">No data found</string>
+    <string name="app_name_title">My Order</string>
+    <string name="title_activity_main_home">MainHomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
